@@ -2,28 +2,11 @@
     align-items: center;
     align-self: center;
     text-align: center;
-}
-.card{
-    margin: 1.5rem;
-    align-items: center;
-    align-self: end;
-    background-color: rgb(57, 141, 57);
-    height: 60%;
-    width: auto;
-    border: 2rem;
-    margin: 2rem;
-
-}
-.card-body{
-
-    border: 2rem;
-    margin: 2rem;
-
-}
+} 
 .img{
     margin: 1rem;
     border-radius: 50%;
-    width: 70%;
+    width: 40%;
     justify-self: center;
     align-content: center;
 
@@ -37,6 +20,4 @@ body{
 h1{
     text-align: center;
 }
- .row{
-    align-items: end;
- }
+ 
